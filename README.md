@@ -1,3 +1,12 @@
+# Content for this repository has moved to:
+
+[https://github.com/mark-watson/SwiftAI-book](https://github.com/mark-watson/SwiftAI-book)
+
+This new repository contains both the manuscript and source code examples for my Swift AI book. This book can be read for free online at:
+
+[https://leanpub.com/read/SwiftAI](https://leanpub.com/read/SwiftAI)
+
+
 # KGN - Knowledge Graph Navigator, using SPARQL queries to DBPedia and two of Apple's pretrained NLP deep learning models
 
 Example from my book "Artificial Intelligence Using Swift"
